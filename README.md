@@ -1,6 +1,11 @@
 # UGUI Animation Samples
  A sample project that includes implementation examples of UI animation for Unity UI (uGUI) using LitMotion.
 
+### List of packages used
+
+* [LitMotion](https://github.com/AnnulusGames/LitMotion)
+* [UniTask](https://github.com/Cysharp/UniTask)
+
 ## Showcase
 
 https://github.com/AnnulusGames/UGUIAnimationSamples/assets/84110981/d7eeccd0-2a7a-4029-a8df-453169508718
